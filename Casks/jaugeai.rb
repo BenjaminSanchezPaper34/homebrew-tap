@@ -1,6 +1,6 @@
 cask "jaugeai" do
-  version "0.5.30"
-  sha256 "46767a9aeb15a5b60c8391d828fe7f9a207824f23a070e86f4c4c738940ec4c1"
+  version "0.5.31"
+  sha256 "fa4bdfb159b414900a859ef0f14e907bb4719e248a952c95c9d79157a6ca1893"
 
   url "https://github.com/BenjaminSanchezPaper34/aijauge-releases/releases/download/v#{version}/JaugeAI-#{version}.dmg"
   name "JaugeAI"
